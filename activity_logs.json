@@ -44,3 +44,16 @@
 {"time":"2025-02-16T16:26:30.234Z","application":"rg : Opened - PID : 64416 "}
 {"time":"2025-02-16T16:26:30.234Z","application":"rg : Opened - PID : 64424 "}
 {"time":"2025-02-16T16:26:30.233Z","application":"git : Opened - PID : 64413 "}
+{"time":"2025-02-16T16:26:35.085Z","application":"git : Opened - PID : 64450 "}
+{"time":"2025-02-16T16:26:35.085Z","application":"git-remote-http : Opened - PID : 64451 "}
+{"time":"2025-02-16T16:26:35.085Z","application":"chrome : closed  - PID : 64153 "}
+{"time":"2025-02-16T16:26:35.084Z","application":"git : Opened - PID : 64449 "}
+{"time":"2025-02-16T16:26:35.085Z","application":"git : closed  - PID : 64413 "}
+{"time":"2025-02-16T16:26:35.085Z","application":"rg : closed  - PID : 64416 "}
+{"time":"2025-02-16T16:26:35.085Z","application":"rg : closed  - PID : 64424 "}
+{"time":"2025-02-16T16:26:40.073Z","application":"chrome : Opened - PID : 64482 "}
+{"time":"2025-02-16T16:26:40.074Z","application":"chrome : closed  - PID : 64028 "}
+{"time":"2025-02-16T16:26:40.074Z","application":"chrome : closed  - PID : 64163 "}
+{"time":"2025-02-16T16:26:40.074Z","application":"git : closed  - PID : 64450 "}
+{"time":"2025-02-16T16:26:40.074Z","application":"git : closed  - PID : 64449 "}
+{"time":"2025-02-16T16:26:40.074Z","application":"git-remote-http : closed  - PID : 64451 "}
