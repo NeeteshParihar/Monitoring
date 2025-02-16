@@ -4,3 +4,6 @@
 {"time":"2025-02-16T16:55:05.971Z","application":"chrome : closed  - PID : 70591 "}
 {"time":"2025-02-16T16:55:10.999Z","application":"chrome : closed  - PID : 70601 "}
 {"time":"2025-02-16T16:55:15.968Z","application":"node : Opened - PID : 70761 "}
+{"time":"2025-02-16T16:55:26.342Z","application":"node : closed  - PID : 70761 "}
+{"time":"2025-02-16T16:55:35.990Z","application":"chrome : Opened - PID : 70851 "}
+{"time":"2025-02-16T16:55:35.990Z","application":"chrome : closed  - PID : 70697 "}
