@@ -19,3 +19,13 @@ const intervalID = setInterval( ()=>{
     })
 
 } , 20000)
+
+
+
+setTimeout( ()=>{
+
+    clearInterval(intervalID)
+
+} , 120000)
+
+
