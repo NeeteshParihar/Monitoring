@@ -8,3 +8,10 @@
 {"time":"2025-02-16T16:25:05.035Z","application":"chrome : Opened - PID : 63834 "}
 {"time":"2025-02-16T16:25:05.035Z","application":"chrome : closed  - PID : 63505 "}
 {"time":"2025-02-16T16:25:05.036Z","application":"chrome : closed  - PID : 63720 "}
+{"time":"2025-02-16T16:25:15.010Z","application":"git : Opened - PID : 63871 "}
+{"time":"2025-02-16T16:25:15.011Z","application":"git : Opened - PID : 63872 "}
+{"time":"2025-02-16T16:25:15.011Z","application":"git-remote-http : Opened - PID : 63873 "}
+{"time":"2025-02-16T16:25:20.059Z","application":"git : closed  - PID : 63871 "}
+{"time":"2025-02-16T16:25:20.060Z","application":"git : closed  - PID : 63872 "}
+{"time":"2025-02-16T16:25:20.060Z","application":"git-remote-http : closed  - PID : 63873 "}
+{"time":"2025-02-16T16:25:25.102Z","application":"node : Opened - PID : 63971 "}
