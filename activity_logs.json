@@ -34,3 +34,13 @@
 {"time":"2025-02-16T16:26:00.139Z","application":"git : closed  - PID : 64181 "}
 {"time":"2025-02-16T16:26:00.139Z","application":"git : closed  - PID : 64182 "}
 {"time":"2025-02-16T16:26:00.140Z","application":"git-remote-http : closed  - PID : 64183 "}
+{"time":"2025-02-16T16:26:15.069Z","application":"git : Opened - PID : 64286 "}
+{"time":"2025-02-16T16:26:15.069Z","application":"git : Opened - PID : 64287 "}
+{"time":"2025-02-16T16:26:15.069Z","application":"git-remote-http : Opened - PID : 64288 "}
+{"time":"2025-02-16T16:26:20.116Z","application":"git : closed  - PID : 64286 "}
+{"time":"2025-02-16T16:26:20.116Z","application":"git : closed  - PID : 64287 "}
+{"time":"2025-02-16T16:26:20.116Z","application":"git-remote-http : closed  - PID : 64288 "}
+{"time":"2025-02-16T16:26:25.789Z","application":"code : Opened - PID : 64357 "}
+{"time":"2025-02-16T16:26:30.234Z","application":"rg : Opened - PID : 64416 "}
+{"time":"2025-02-16T16:26:30.234Z","application":"rg : Opened - PID : 64424 "}
+{"time":"2025-02-16T16:26:30.233Z","application":"git : Opened - PID : 64413 "}
