@@ -1,0 +1,10 @@
+{"time":"2025-02-16T16:24:04.943Z","application":"chrome : Opened - PID : 63652 "}
+{"time":"2025-02-16T16:24:04.948Z","application":"chrome : closed  - PID : 63536 "}
+{"time":"2025-02-16T16:24:34.939Z","application":"chrome : Opened - PID : 63720 "}
+{"time":"2025-02-16T16:24:34.940Z","application":"chrome : closed  - PID : 63652 "}
+{"time":"2025-02-16T16:24:54.953Z","application":"node : Opened - PID : 63781 "}
+{"time":"2025-02-16T16:25:05.034Z","application":"chrome : Opened - PID : 63812 "}
+{"time":"2025-02-16T16:25:05.035Z","application":"chrome : Opened - PID : 63824 "}
+{"time":"2025-02-16T16:25:05.035Z","application":"chrome : Opened - PID : 63834 "}
+{"time":"2025-02-16T16:25:05.035Z","application":"chrome : closed  - PID : 63505 "}
+{"time":"2025-02-16T16:25:05.036Z","application":"chrome : closed  - PID : 63720 "}
