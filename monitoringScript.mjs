@@ -82,9 +82,8 @@ const logToFile = (app, pid) => {
         application: `${app} - PID : ${pid} `
     };
 
-    fs.appendFile(loggingPATH, JSON.stringify(logMessage) + "\n", (err) => {
-        if (err) console.error("Error writing to file:", err);
-    });
+    fs.appendFileSync(loggingPATH, JSON.stringify(logMessage) + "\n"
+    );
 };
 
 const monitorProcesses = async () => {
