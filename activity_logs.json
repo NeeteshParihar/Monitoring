@@ -26,3 +26,11 @@
 {"time":"2025-02-16T16:25:40.281Z","application":"git : closed  - PID : 64053 "}
 {"time":"2025-02-16T16:25:45.018Z","application":"cpuUsage.sh : Opened - PID : 64127 "}
 {"time":"2025-02-16T16:25:50.074Z","application":"cpuUsage.sh : closed  - PID : 64127 "}
+{"time":"2025-02-16T16:25:55.389Z","application":"chrome : Opened - PID : 64163 "}
+{"time":"2025-02-16T16:25:55.389Z","application":"git : Opened - PID : 64181 "}
+{"time":"2025-02-16T16:25:55.388Z","application":"chrome : Opened - PID : 64153 "}
+{"time":"2025-02-16T16:25:55.394Z","application":"git : Opened - PID : 64182 "}
+{"time":"2025-02-16T16:25:55.394Z","application":"git-remote-http : Opened - PID : 64183 "}
+{"time":"2025-02-16T16:26:00.139Z","application":"git : closed  - PID : 64181 "}
+{"time":"2025-02-16T16:26:00.139Z","application":"git : closed  - PID : 64182 "}
+{"time":"2025-02-16T16:26:00.140Z","application":"git-remote-http : closed  - PID : 64183 "}
