@@ -223,3 +223,13 @@
 {"time":"2025-02-16T16:48:12.227Z","application":"git-remote-http : closed  - PID : 69440 "}
 {"time":"2025-02-16T16:48:12.227Z","application":"cpuUsage.sh : closed  - PID : 69469 "}
 {"time":"2025-02-16T16:48:12.227Z","application":"gh : closed  - PID : 69474 "}
+{"time":"2025-02-16T16:48:27.294Z","application":"git : Opened - PID : 69592 "}
+{"time":"2025-02-16T16:48:27.295Z","application":"git : Opened - PID : 69593 "}
+{"time":"2025-02-16T16:48:27.295Z","application":"git-remote-http : Opened - PID : 69594 "}
+{"time":"2025-02-16T16:48:27.295Z","application":"gh : Opened - PID : 69611 "}
+{"time":"2025-02-16T16:48:32.270Z","application":"git : closed  - PID : 69592 "}
+{"time":"2025-02-16T16:48:32.270Z","application":"git : closed  - PID : 69593 "}
+{"time":"2025-02-16T16:48:32.271Z","application":"git-remote-http : closed  - PID : 69594 "}
+{"time":"2025-02-16T16:48:32.271Z","application":"gh : closed  - PID : 69611 "}
+{"time":"2025-02-16T16:48:37.411Z","application":"chrome : Opened - PID : 69638 "}
+{"time":"2025-02-16T16:48:37.412Z","application":"chrome : closed  - PID : 69457 "}
