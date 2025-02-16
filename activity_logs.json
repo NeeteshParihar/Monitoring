@@ -15,3 +15,14 @@
 {"time":"2025-02-16T16:25:20.060Z","application":"git : closed  - PID : 63872 "}
 {"time":"2025-02-16T16:25:20.060Z","application":"git-remote-http : closed  - PID : 63873 "}
 {"time":"2025-02-16T16:25:25.102Z","application":"node : Opened - PID : 63971 "}
+{"time":"2025-02-16T16:25:35.368Z","application":"chrome : Opened - PID : 64028 "}
+{"time":"2025-02-16T16:25:35.368Z","application":"git : Opened - PID : 64052 "}
+{"time":"2025-02-16T16:25:35.368Z","application":"git : Opened - PID : 64053 "}
+{"time":"2025-02-16T16:25:35.369Z","application":"git-remote-http : Opened - PID : 64054 "}
+{"time":"2025-02-16T16:25:35.370Z","application":"chrome : closed  - PID : 63812 "}
+{"time":"2025-02-16T16:25:35.371Z","application":"chrome : closed  - PID : 63824 "}
+{"time":"2025-02-16T16:25:40.280Z","application":"git : closed  - PID : 64052 "}
+{"time":"2025-02-16T16:25:40.281Z","application":"git-remote-http : closed  - PID : 64054 "}
+{"time":"2025-02-16T16:25:40.281Z","application":"git : closed  - PID : 64053 "}
+{"time":"2025-02-16T16:25:45.018Z","application":"cpuUsage.sh : Opened - PID : 64127 "}
+{"time":"2025-02-16T16:25:50.074Z","application":"cpuUsage.sh : closed  - PID : 64127 "}
