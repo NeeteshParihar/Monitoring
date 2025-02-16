@@ -38,3 +38,15 @@
 {"time":"2025-02-16T16:56:21.035Z","application":"git : Opened - PID : 71227 "}
 {"time":"2025-02-16T16:56:21.035Z","application":"git : Opened - PID : 71228 "}
 {"time":"2025-02-16T16:56:21.035Z","application":"git-remote-http : Opened - PID : 71229 "}
+{"time":"2025-02-16T16:56:26.042Z","application":"git : closed  - PID : 71226 "}
+{"time":"2025-02-16T16:56:26.042Z","application":"git : closed  - PID : 71227 "}
+{"time":"2025-02-16T16:56:26.042Z","application":"git : closed  - PID : 71228 "}
+{"time":"2025-02-16T16:56:26.043Z","application":"git-remote-http : closed  - PID : 71229 "}
+{"time":"2025-02-16T16:56:31.090Z","application":"git : Opened - PID : 71339 "}
+{"time":"2025-02-16T16:56:31.090Z","application":"git : Opened - PID : 71340 "}
+{"time":"2025-02-16T16:56:31.091Z","application":"git : Opened - PID : 71341 "}
+{"time":"2025-02-16T16:56:31.091Z","application":"git-remote-http : Opened - PID : 71342 "}
+{"time":"2025-02-16T16:56:36.057Z","application":"git : closed  - PID : 71339 "}
+{"time":"2025-02-16T16:56:36.058Z","application":"git : closed  - PID : 71340 "}
+{"time":"2025-02-16T16:56:36.058Z","application":"git : closed  - PID : 71341 "}
+{"time":"2025-02-16T16:56:36.058Z","application":"git-remote-http : closed  - PID : 71342 "}
