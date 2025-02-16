@@ -54,3 +54,9 @@
 {"time":"2025-02-16T16:42:51.918Z","application":"chrome : closed  - PID : 67036 "}
 {"time":"2025-02-16T16:42:57.021Z","application":"chrome : Opened - PID : 67693 "}
 {"time":"2025-02-16T16:42:57.022Z","application":"chrome : Opened - PID : 67703 "}
+{"time":"2025-02-16T16:43:07.236Z","application":"git : Opened - PID : 67738 "}
+{"time":"2025-02-16T16:43:07.236Z","application":"git : Opened - PID : 67739 "}
+{"time":"2025-02-16T16:43:07.236Z","application":"git-remote-http : Opened - PID : 67740 "}
+{"time":"2025-02-16T16:43:12.007Z","application":"git : closed  - PID : 67738 "}
+{"time":"2025-02-16T16:43:12.008Z","application":"git : closed  - PID : 67739 "}
+{"time":"2025-02-16T16:43:12.008Z","application":"git-remote-http : closed  - PID : 67740 "}
