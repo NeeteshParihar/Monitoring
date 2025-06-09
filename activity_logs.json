@@ -4,3 +4,12 @@
 {"time":"2025-06-09T17:46:49.223Z","application":"snap-update-ns : Opened - PID : 48758 "}
 {"time":"2025-06-09T17:46:49.224Z","application":"git : closed  - PID : 48619 "}
 {"time":"2025-06-09T17:46:49.225Z","application":"ssh : closed  - PID : 48620 "}
+{"time":"2025-06-09T17:46:55.146Z","application":"desktop-launch : Opened - PID : 48645 "}
+{"time":"2025-06-09T17:46:55.154Z","application":"desktop-launch : Opened - PID : 48695 "}
+{"time":"2025-06-09T17:46:55.159Z","application":"git : Opened - PID : 48821 "}
+{"time":"2025-06-09T17:46:55.160Z","application":"ssh : Opened - PID : 48822 "}
+{"time":"2025-06-09T17:46:55.163Z","application":"snapctl : Opened - PID : 48871 "}
+{"time":"2025-06-09T17:46:55.175Z","application":"snapctl : Opened - PID : 48872 "}
+{"time":"2025-06-09T17:46:55.181Z","application":"git : closed  - PID : 48741 "}
+{"time":"2025-06-09T17:46:55.195Z","application":"ssh : closed  - PID : 48743 "}
+{"time":"2025-06-09T17:46:55.196Z","application":"snap-update-ns : closed  - PID : 48758 "}
