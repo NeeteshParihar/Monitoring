@@ -137,3 +137,7 @@
 {"time":"2025-06-09T17:48:05.312Z","application":"git : closed  - PID : 50014 "}
 {"time":"2025-06-09T17:48:05.314Z","application":"ssh : closed  - PID : 50016 "}
 {"time":"2025-06-09T17:48:05.315Z","application":"git : closed  - PID : 50030 "}
+{"time":"2025-06-09T17:48:11.186Z","application":"git : Opened - PID : 50170 "}
+{"time":"2025-06-09T17:48:11.196Z","application":"ssh : Opened - PID : 50171 "}
+{"time":"2025-06-09T17:48:11.197Z","application":"git : closed  - PID : 50079 "}
+{"time":"2025-06-09T17:48:11.202Z","application":"ssh : closed  - PID : 50080 "}
