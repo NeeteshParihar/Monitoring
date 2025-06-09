@@ -115,3 +115,11 @@
 {"time":"2025-06-09T17:47:49.927Z","application":"ssh : closed  - PID : 49764 "}
 {"time":"2025-06-09T17:47:49.928Z","application":"git : closed  - PID : 49775 "}
 {"time":"2025-06-09T17:47:49.928Z","application":"git : closed  - PID : 49801 "}
+{"time":"2025-06-09T17:47:55.095Z","application":"Discord : Opened - PID : 49912 "}
+{"time":"2025-06-09T17:47:55.100Z","application":"bwrap : Opened - PID : 49920 "}
+{"time":"2025-06-09T17:47:55.100Z","application":"bwrap : Opened - PID : 49921 "}
+{"time":"2025-06-09T17:47:55.100Z","application":"totem-video-thu : Opened - PID : 49922 "}
+{"time":"2025-06-09T17:47:55.101Z","application":"git : Opened - PID : 49945 "}
+{"time":"2025-06-09T17:47:55.101Z","application":"ssh : Opened - PID : 49947 "}
+{"time":"2025-06-09T17:47:55.101Z","application":"git : closed  - PID : 49849 "}
+{"time":"2025-06-09T17:47:55.101Z","application":"ssh : closed  - PID : 49850 "}
