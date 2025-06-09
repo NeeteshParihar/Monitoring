@@ -1,0 +1,6 @@
+{"time":"2025-06-09T17:46:49.218Z","application":"tracker-extract : Opened - PID : 48656 "}
+{"time":"2025-06-09T17:46:49.221Z","application":"git : Opened - PID : 48741 "}
+{"time":"2025-06-09T17:46:49.222Z","application":"ssh : Opened - PID : 48743 "}
+{"time":"2025-06-09T17:46:49.223Z","application":"snap-update-ns : Opened - PID : 48758 "}
+{"time":"2025-06-09T17:46:49.224Z","application":"git : closed  - PID : 48619 "}
+{"time":"2025-06-09T17:46:49.225Z","application":"ssh : closed  - PID : 48620 "}
