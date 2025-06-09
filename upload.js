@@ -6,7 +6,7 @@ import { exec } from "child_process";
  function execute(command , message = ""){
 
     console.log(`start ${command}`)
-     const res =  exec(command, (error, stdout, stderr) => {
+     exec(command, (error, stdout, stderr) => {
 
 
         if (error) {
