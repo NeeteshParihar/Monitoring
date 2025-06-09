@@ -6,9 +6,10 @@ import {exec} from "child_process";
 
 const intervalID = setInterval( ()=>{
 
-    const command = `git add . && git commit -m "add logs" && git push origin main` ;
+    const command = `git add . && git commit -m "add logs" && git remote -v` ;
 
     exec( command  , ( error , stdout , stderr )=>{
+
 
         if(error){
             console.log(error.message) ;
