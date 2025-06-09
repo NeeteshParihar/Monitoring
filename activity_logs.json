@@ -19,3 +19,11 @@
 {"time":"2025-06-09T17:46:59.392Z","application":"ssh : closed  - PID : 48822 "}
 {"time":"2025-06-09T17:46:59.392Z","application":"snapctl : closed  - PID : 48871 "}
 {"time":"2025-06-09T17:46:59.392Z","application":"snapctl : closed  - PID : 48872 "}
+{"time":"2025-06-09T17:47:04.959Z","application":"Discord : Opened - PID : 49054 "}
+{"time":"2025-06-09T17:47:04.960Z","application":"Discord : Opened - PID : 49056 "}
+{"time":"2025-06-09T17:47:04.960Z","application":"Discord : Opened - PID : 49057 "}
+{"time":"2025-06-09T17:47:04.960Z","application":"Discord : Opened - PID : 49058 "}
+{"time":"2025-06-09T17:47:04.960Z","application":"git : Opened - PID : 49080 "}
+{"time":"2025-06-09T17:47:04.961Z","application":"ssh : Opened - PID : 49081 "}
+{"time":"2025-06-09T17:47:04.961Z","application":"git : closed  - PID : 48965 "}
+{"time":"2025-06-09T17:47:04.961Z","application":"ssh : closed  - PID : 48966 "}
