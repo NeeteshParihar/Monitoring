@@ -3,9 +3,10 @@ import {exec} from "child_process";
 
 // const {exec} = require("child_process") ;
 
+
 const intervalID = setInterval( ()=>{
 
-    const command = `git add . && git commit -m "push data to github by a nodejs script" && git push origin main` ;
+    const command = `git add . && git commit -m "add logs"` ;
 
     exec( command  , ( error , stdout , stderr )=>{
 
@@ -14,6 +15,7 @@ const intervalID = setInterval( ()=>{
         }else if( stderr){
             console.log(stderr);
         }else{
+            console.log("uploaing...");
             console.log(stdout) ;
         }
 
