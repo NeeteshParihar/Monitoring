@@ -33,11 +33,17 @@ const intervalID = setInterval( async() => {
     const commit = `git commit -m "add"`;
     const push = "git push origin main";
 
-   await  execute(update );
+    const command = `
+  git add . && 
+  (git diff --cached --quiet || git commit -m "push data to github by a nodejs script") && 
+  git push origin main
+`;
 
-    await  execute(commit );
+//    await  execute(update );
+
+//     await  execute(commit );
     
-   await execute(push , "uploadin...");
+   await execute(command , "uploadin...");
 
 }, 5000)
 
