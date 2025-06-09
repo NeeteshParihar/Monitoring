@@ -1,6 +1,7 @@
 
+import {exec} from "child_process";
 
-const {exec} = require("child_process") ;
+// const {exec} = require("child_process") ;
 
 const intervalID = setInterval( ()=>{
 
@@ -26,6 +27,6 @@ setTimeout( ()=>{
 
     clearInterval(intervalID)
 
-} , 120000)
+} , 3000) ;
 
 
