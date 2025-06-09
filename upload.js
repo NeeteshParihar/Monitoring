@@ -19,7 +19,7 @@ const intervalID = setInterval( ()=>{
 
     })
 
-} , 3000)
+} , 5000)
 
 
 
