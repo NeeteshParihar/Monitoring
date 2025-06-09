@@ -35,3 +35,10 @@
 {"time":"2025-06-09T17:47:10.535Z","application":"ssh : Opened - PID : 49192 "}
 {"time":"2025-06-09T17:47:10.536Z","application":"git : closed  - PID : 49080 "}
 {"time":"2025-06-09T17:47:10.537Z","application":"ssh : closed  - PID : 49081 "}
+{"time":"2025-06-09T17:47:14.894Z","application":"git : Opened - PID : 49248 "}
+{"time":"2025-06-09T17:47:14.895Z","application":"ssh : Opened - PID : 49252 "}
+{"time":"2025-06-09T17:47:14.897Z","application":"bwrap : closed  - PID : 49179 "}
+{"time":"2025-06-09T17:47:14.897Z","application":"bwrap : closed  - PID : 49181 "}
+{"time":"2025-06-09T17:47:14.898Z","application":"totem-video-thu : closed  - PID : 49183 "}
+{"time":"2025-06-09T17:47:14.898Z","application":"git : closed  - PID : 49191 "}
+{"time":"2025-06-09T17:47:14.899Z","application":"ssh : closed  - PID : 49192 "}
