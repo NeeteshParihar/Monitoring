@@ -3,10 +3,10 @@ import { exec } from "child_process";
 
 // const {exec} = require("child_process") ;
 
- async function execute(command , message = ""){
+async function execute(command, message = "") {
 
     console.log(`start ${command}`)
-     exec(command, (error, stdout, stderr) => {
+    exec(command, (error, stdout, stderr) => {
 
 
         if (error) {
@@ -20,30 +20,28 @@ import { exec } from "child_process";
 
     })
 
-    console.log(`finish ${command}`) ;
+    console.log(`finish ${command}`);
 
-    return true ;
+    return true;
 
     // console.log(res) ;
 }
 
-const intervalID = setInterval( async() => {
+const intervalID = setInterval(() => {
 
     const update = 'git add .';
     const commit = `git commit -m "add"`;
     const push = "git push origin main";
 
     const command = `
-  git add . && 
-  (git diff --cached --quiet || git commit -m "push data to github by a nodejs script") && 
-  git push origin main
-`;
+                    git add . && 
+                    (git diff --cached --quiet || git commit -m "push data to github by a nodejs script") && 
+                    git push origin main
+                    `;
 
-//    await  execute(update );
 
-//     await  execute(commit );
+    execute(command, "uploadin...");
     
-   await execute(command , "uploadin...");
 
 }, 5000)
 
