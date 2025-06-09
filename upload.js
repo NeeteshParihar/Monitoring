@@ -5,7 +5,8 @@ import { exec } from "child_process";
 
 async function execute(command , message = ""){
 
-     const res =    exec(command, (error, stdout, stderr) => {
+    console.log(`start ${command}`)
+     const res =  exec(command, (error, stdout, stderr) => {
 
 
         if (error) {
@@ -19,7 +20,10 @@ async function execute(command , message = ""){
 
     })
 
-    console.log(res) ;
+    console.log(`finish ${command}`) ;
+
+
+    // console.log(res) ;
 }
 
 const intervalID = setInterval( async() => {
