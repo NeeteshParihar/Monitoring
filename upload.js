@@ -3,7 +3,7 @@ import { exec } from "child_process";
 
 // const {exec} = require("child_process") ;
 
- function execute(command , message = ""){
+ async function execute(command , message = ""){
 
     console.log(`start ${command}`)
      exec(command, (error, stdout, stderr) => {
