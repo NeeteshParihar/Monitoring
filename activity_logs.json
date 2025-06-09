@@ -55,3 +55,13 @@
 {"time":"2025-06-09T17:47:25.517Z","application":"ssh : Opened - PID : 49368 "}
 {"time":"2025-06-09T17:47:25.517Z","application":"git : closed  - PID : 49297 "}
 {"time":"2025-06-09T17:47:25.517Z","application":"ssh : closed  - PID : 49298 "}
+{"time":"2025-06-09T17:47:30.272Z","application":"git : Opened - PID : 49435 "}
+{"time":"2025-06-09T17:47:30.272Z","application":"ssh : Opened - PID : 49436 "}
+{"time":"2025-06-09T17:47:30.273Z","application":"bwrap : Opened - PID : 49461 "}
+{"time":"2025-06-09T17:47:30.273Z","application":"bwrap : Opened - PID : 49462 "}
+{"time":"2025-06-09T17:47:30.273Z","application":"totem-video-thu : Opened - PID : 49464 "}
+{"time":"2025-06-09T17:47:30.273Z","application":"bwrap : closed  - PID : 49334 "}
+{"time":"2025-06-09T17:47:30.273Z","application":"bwrap : closed  - PID : 49337 "}
+{"time":"2025-06-09T17:47:30.274Z","application":"totem-video-thu : closed  - PID : 49342 "}
+{"time":"2025-06-09T17:47:30.274Z","application":"git : closed  - PID : 49364 "}
+{"time":"2025-06-09T17:47:30.274Z","application":"ssh : closed  - PID : 49368 "}
