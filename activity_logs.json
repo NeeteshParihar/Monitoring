@@ -7,3 +7,4 @@
 {"time":"2025-06-09T16:58:06.751Z","application":"cpuUsage.sh : closed  - PID : 37978 "}
 {"time":"2025-06-09T16:59:06.856Z","application":"node : Opened - PID : 38254 "}
 {"time":"2025-06-09T16:59:06.857Z","application":"cpuUsage.sh : Opened - PID : 38275 "}
+{"time":"2025-06-09T16:59:11.895Z","application":"cpuUsage.sh : closed  - PID : 38275 "}
