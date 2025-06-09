@@ -19,7 +19,7 @@ const intervalID = setInterval( ()=>{
 
     })
 
-} , 20000)
+} , 3000)
 
 
 
@@ -27,6 +27,6 @@ setTimeout( ()=>{
 
     clearInterval(intervalID)
 
-} , 3000) ;
+} , 120000) ;
 
 

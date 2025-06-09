@@ -1,0 +1,12 @@
+
+{"time":"2025-06-09T16:54:36.841Z","application":"colord-sane : closed  - PID : 35942 "}
+{"time":"2025-06-09T16:54:46.662Z","application":"gjs : Opened - PID : 36055 "}
+{"time":"2025-06-09T16:54:51.801Z","application":"tracker-extract : Opened - PID : 36102 "}
+{"time":"2025-06-09T16:55:01.755Z","application":"desktop-launch : Opened - PID : 36190 "}
+{"time":"2025-06-09T16:55:12.137Z","application":"tracker-extract : Opened - PID : 36359 "}
+{"time":"2025-06-09T16:55:12.158Z","application":"gnome-control-c : Opened - PID : 36364 "}
+{"time":"2025-06-09T16:55:12.159Z","application":"tracker-extract : closed  - PID : 36102 "}
+{"time":"2025-06-09T16:55:27.695Z","application":"thunderbird-bin : Opened - PID : 36552 "}
+{"time":"2025-06-09T16:55:32.144Z","application":"glxtest : Opened - PID : 36703 "}
+{"time":"2025-06-09T16:55:36.711Z","application":"node : Opened - PID : 36777 "}
+{"time":"2025-06-09T16:55:36.715Z","application":"glxtest : closed  - PID : 36703 "}
