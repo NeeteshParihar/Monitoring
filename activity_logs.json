@@ -27,3 +27,11 @@
 {"time":"2025-06-09T17:47:04.961Z","application":"ssh : Opened - PID : 49081 "}
 {"time":"2025-06-09T17:47:04.961Z","application":"git : closed  - PID : 48965 "}
 {"time":"2025-06-09T17:47:04.961Z","application":"ssh : closed  - PID : 48966 "}
+{"time":"2025-06-09T17:47:10.531Z","application":"chrome : Opened - PID : 49166 "}
+{"time":"2025-06-09T17:47:10.532Z","application":"bwrap : Opened - PID : 49179 "}
+{"time":"2025-06-09T17:47:10.535Z","application":"bwrap : Opened - PID : 49181 "}
+{"time":"2025-06-09T17:47:10.535Z","application":"totem-video-thu : Opened - PID : 49183 "}
+{"time":"2025-06-09T17:47:10.535Z","application":"git : Opened - PID : 49191 "}
+{"time":"2025-06-09T17:47:10.535Z","application":"ssh : Opened - PID : 49192 "}
+{"time":"2025-06-09T17:47:10.536Z","application":"git : closed  - PID : 49080 "}
+{"time":"2025-06-09T17:47:10.537Z","application":"ssh : closed  - PID : 49081 "}
