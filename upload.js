@@ -1,35 +1,45 @@
 
-import {exec} from "child_process";
+import { exec } from "child_process";
 
 // const {exec} = require("child_process") ;
 
+function execute(command , message = ""){
 
-const intervalID = setInterval( ()=>{
-
-    const command = `git add . && git commit -m "add logs" && git remote -v` ;
-
-    exec( command  , ( error , stdout , stderr )=>{
+        exec(command, (error, stdout, stderr) => {
 
 
-        if(error){
-            console.log(error.message) ;
-        }else if( stderr){
+        if (error) {
+            console.log(error.message);
+        } else if (stderr) {
             console.log(stderr);
-        }else{
-            console.log("uploaing...");
-            console.log(stdout) ;
+        } else {
+            console.log(message);
+            console.log(stdout);
         }
 
     })
+}
 
-} , 5000)
+const intervalID = setInterval(() => {
+
+    const update = 'git add .';
+    const commit = `git commit -m "add"`;
+    const push = "git push origin main";
+
+    execute(update );
+
+    execute(commit );
+    
+    execute(push , "uploadin...");
+
+}, 5000)
 
 
 
-setTimeout( ()=>{
+setTimeout(() => {
 
     clearInterval(intervalID)
 
-} , 120000) ;
+}, 120000);
 
 
