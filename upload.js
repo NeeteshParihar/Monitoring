@@ -3,9 +3,9 @@ import { exec } from "child_process";
 
 // const {exec} = require("child_process") ;
 
-function execute(command , message = ""){
+async function execute(command , message = ""){
 
-        exec(command, (error, stdout, stderr) => {
+     const res =    exec(command, (error, stdout, stderr) => {
 
 
         if (error) {
@@ -18,9 +18,11 @@ function execute(command , message = ""){
         }
 
     })
+
+    console.log(res) ;
 }
 
-const intervalID = setInterval(() => {
+const intervalID = setInterval( async() => {
 
     const update = 'git add .';
     const commit = `git commit -m "add"`;
