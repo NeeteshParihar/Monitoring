@@ -16,3 +16,5 @@
 {"time":"2025-06-09T16:59:22.067Z","application":"ssh : closed  - PID : 38353 "}
 {"time":"2025-06-09T16:59:26.895Z","application":"cpuUsage.sh : closed  - PID : 38435 "}
 {"time":"2025-06-09T17:00:41.915Z","application":"node : Opened - PID : 38719 "}
+{"time":"2025-06-09T17:00:52.211Z","application":"node : closed  - PID : 38719 "}
+{"time":"2025-06-09T17:01:06.936Z","application":"node : Opened - PID : 38921 "}
