@@ -6,7 +6,7 @@ import {exec} from "child_process";
 
 const intervalID = setInterval( ()=>{
 
-    const command = `git add . && git commit -m "add logs"` ;
+    const command = `git add . && git commit -m "add logs" && git push origin main` ;
 
     exec( command  , ( error , stdout , stderr )=>{
 
