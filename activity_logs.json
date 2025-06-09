@@ -13,3 +13,9 @@
 {"time":"2025-06-09T17:46:55.181Z","application":"git : closed  - PID : 48741 "}
 {"time":"2025-06-09T17:46:55.195Z","application":"ssh : closed  - PID : 48743 "}
 {"time":"2025-06-09T17:46:55.196Z","application":"snap-update-ns : closed  - PID : 48758 "}
+{"time":"2025-06-09T17:46:59.390Z","application":"git : Opened - PID : 48965 "}
+{"time":"2025-06-09T17:46:59.391Z","application":"ssh : Opened - PID : 48966 "}
+{"time":"2025-06-09T17:46:59.391Z","application":"git : closed  - PID : 48821 "}
+{"time":"2025-06-09T17:46:59.392Z","application":"ssh : closed  - PID : 48822 "}
+{"time":"2025-06-09T17:46:59.392Z","application":"snapctl : closed  - PID : 48871 "}
+{"time":"2025-06-09T17:46:59.392Z","application":"snapctl : closed  - PID : 48872 "}
