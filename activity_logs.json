@@ -10,3 +10,9 @@
 {"time":"2025-06-09T16:59:11.895Z","application":"cpuUsage.sh : closed  - PID : 38275 "}
 {"time":"2025-06-09T16:59:16.817Z","application":"git : Opened - PID : 38352 "}
 {"time":"2025-06-09T16:59:16.818Z","application":"ssh : Opened - PID : 38353 "}
+{"time":"2025-06-09T16:59:22.066Z","application":"cpuUsage.sh : Opened - PID : 38435 "}
+{"time":"2025-06-09T16:59:22.067Z","application":"node : closed  - PID : 38254 "}
+{"time":"2025-06-09T16:59:22.067Z","application":"git : closed  - PID : 38352 "}
+{"time":"2025-06-09T16:59:22.067Z","application":"ssh : closed  - PID : 38353 "}
+{"time":"2025-06-09T16:59:26.895Z","application":"cpuUsage.sh : closed  - PID : 38435 "}
+{"time":"2025-06-09T17:00:41.915Z","application":"node : Opened - PID : 38719 "}
