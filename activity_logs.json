@@ -106,3 +106,12 @@
 {"time":"2025-06-09T17:47:45.761Z","application":"totem-video-thu : closed  - PID : 49569 "}
 {"time":"2025-06-09T17:47:45.761Z","application":"git : closed  - PID : 49627 "}
 {"time":"2025-06-09T17:47:45.768Z","application":"ssh : closed  - PID : 49628 "}
+{"time":"2025-06-09T17:47:49.921Z","application":"git : Opened - PID : 49849 "}
+{"time":"2025-06-09T17:47:49.922Z","application":"ssh : Opened - PID : 49850 "}
+{"time":"2025-06-09T17:47:49.923Z","application":"bwrap : closed  - PID : 49700 "}
+{"time":"2025-06-09T17:47:49.923Z","application":"bwrap : closed  - PID : 49701 "}
+{"time":"2025-06-09T17:47:49.923Z","application":"totem-video-thu : closed  - PID : 49702 "}
+{"time":"2025-06-09T17:47:49.923Z","application":"git : closed  - PID : 49763 "}
+{"time":"2025-06-09T17:47:49.927Z","application":"ssh : closed  - PID : 49764 "}
+{"time":"2025-06-09T17:47:49.928Z","application":"git : closed  - PID : 49775 "}
+{"time":"2025-06-09T17:47:49.928Z","application":"git : closed  - PID : 49801 "}
