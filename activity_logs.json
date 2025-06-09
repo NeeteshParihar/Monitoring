@@ -1,3 +1,9 @@
 {"time":"2025-06-09T16:57:36.858Z","application":"gnome-control-c : closed  - PID : 36364 "}
 {"time":"2025-06-09T16:57:51.747Z","application":"node : Opened - PID : 37854 "}
 {"time":"2025-06-09T16:57:51.748Z","application":"cpuUsage.sh : Opened - PID : 37875 "}
+{"time":"2025-06-09T16:57:56.792Z","application":"cpuUsage.sh : closed  - PID : 37875 "}
+{"time":"2025-06-09T16:58:01.870Z","application":"cpuUsage.sh : Opened - PID : 37978 "}
+{"time":"2025-06-09T16:58:01.871Z","application":"node : closed  - PID : 37854 "}
+{"time":"2025-06-09T16:58:06.751Z","application":"cpuUsage.sh : closed  - PID : 37978 "}
+{"time":"2025-06-09T16:59:06.856Z","application":"node : Opened - PID : 38254 "}
+{"time":"2025-06-09T16:59:06.857Z","application":"cpuUsage.sh : Opened - PID : 38275 "}
