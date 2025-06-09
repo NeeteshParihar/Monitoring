@@ -22,6 +22,7 @@ import { exec } from "child_process";
 
     console.log(`finish ${command}`) ;
 
+    return true ;
 
     // console.log(res) ;
 }
@@ -32,11 +33,11 @@ const intervalID = setInterval( async() => {
     const commit = `git commit -m "add"`;
     const push = "git push origin main";
 
-    execute(update );
+   await  execute(update );
 
-    execute(commit );
+    await  execute(commit );
     
-    execute(push , "uploadin...");
+   await execute(push , "uploadin...");
 
 }, 5000)
 
